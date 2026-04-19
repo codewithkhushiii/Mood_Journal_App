@@ -4,7 +4,7 @@
             "outputFile": "com.moodjournal.app-mergeDebugResources-30:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/home/notninja/.gradle/caches/9.0.0/transforms/844da4361ed7a748bbac0dcce4129281/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\8.9\\transforms\\0977a59fb9ede7e4e0750b7b084d7703\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

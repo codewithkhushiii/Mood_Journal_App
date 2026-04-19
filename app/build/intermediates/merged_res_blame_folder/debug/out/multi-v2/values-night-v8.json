@@ -4,7 +4,7 @@
             "outputFile": "com.moodjournal.app-mergeDebugResources-30:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/notninja/.gradle/caches/9.0.0/transforms/97afc302ff12ef8c261b045b6273b19f/transformed/material-1.11.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\8.9\\transforms\\af9a0dc8d3ffb8a3a826f5414110f769\\transformed\\material-1.11.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/notninja/.gradle/caches/9.0.0/transforms/844da4361ed7a748bbac0dcce4129281/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\8.9\\transforms\\0977a59fb9ede7e4e0750b7b084d7703\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

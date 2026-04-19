@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         
         // 10.0.2.2 points to localhost of the host machine from the Android Emulator
         // If connecting from a real physical device on same wifi, replace this with your computer's local IP (e.g. 192.168.1.5)
-        webView.loadUrl("http://10.0.2.2:8000")
+        webView.loadUrl("http://10.34.152.228:8000")
     }
 
     @SuppressLint("SetJavaScriptEnabled")
