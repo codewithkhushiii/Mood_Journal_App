@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color bg_dark
+color black
+color white
+id webView
+layout activity_main
+string app_name
+style Base.Theme.MoodJournal
+style Theme.MoodJournal
+style Theme.MoodJournal.NoActionBar
+xml backup_rules
+xml data_extraction_rules
+xml network_security_config
